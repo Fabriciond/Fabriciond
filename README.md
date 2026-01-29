@@ -9,20 +9,6 @@ Trabajo en proyectos **end-to-end**, desde investigación y arquitectura hasta d
 
 ---
 
-## 🧠 Qué hago
-
-- Diseño arquitecturas para **sistemas de IA conversacional** en producción.
-- Implemento **LLMs + RAG + memoria por capas** (STM / MTM / LTM).
-- Integro **modelos multimodales**:
-  - Texto
-  - Visión por computadora
-  - Generación de imágenes
-  - Análisis de video (VideoLLaMA)
-- Desarrollo aplicaciones **Web, iOS y Android** con streaming en tiempo real.
-- Construyo sistemas listos para **escalar, monetizar y cumplir políticas**.
-
----
-
 ## 🚀 Proyecto destacado
 
 ### IAM Chat – Plataforma de IA Conversacional Multimodal
@@ -53,7 +39,6 @@ Arquitecto y desarrollador principal.
 - PostgreSQL
 - Redis
 - SQLAlchemy
-- VideoLLaMA
 
 ### Multimodalidad
 - Computer Vision
@@ -71,7 +56,6 @@ Arquitecto y desarrollador principal.
 - Docker
 - PM2
 - Linux
-- Blue-Green Deployments
 
 ### Pagos
 - Stripe
