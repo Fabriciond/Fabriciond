@@ -89,7 +89,7 @@ ITSON (2020 – 2024)
 ## 📫 Contacto
 
 - GitHub: https://github.com/fabriciond
-- LinkedIn: https://linkedin.com/in/fabricio-nuñez
+- LinkedIn: [https://linkedin.com/in/fabricio-nuñez](https://www.linkedin.com/in/fabricio-nuñez-1142bb235/)
 - Email: fabriciosaul81@gmail.com
 
 ---
