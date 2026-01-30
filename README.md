@@ -91,7 +91,7 @@ ITSON (2020 – 2024)
 - GitHub: https://github.com/fabriciond
 - LinkedIn: [https://linkedin.com/in/fabricio-nuñez](https://www.linkedin.com/in/fabricio-nuñez-1142bb235/)
 - Email: fabriciosaul81@gmail.com
-
+- Portafolio: https://fabsnun.dev/projects
 ---
 
 > 💡 *Interesado en proyectos de IA aplicada, arquitectura de sistemas, productos escalables y retos técnicos complejos.*
